@@ -12,5 +12,7 @@ public class MainActivity extends Activity {
 
         int test2;
         int test;
+
+        int test3 = 0;
     }
 }
